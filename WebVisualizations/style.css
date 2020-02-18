@@ -1,5 +1,5 @@
 .container-fluid .navbar-brand {
-  color: white;
+  color: grey;
   height: 50px;
   padding-top: 15px;
   padding-bottom: 20px;
@@ -7,11 +7,11 @@
   padding-left: 20px;
   font-weight: bold;
   font-size: 140%;
-  background-color: #0bada6;
+  background-color: rgb(128, 0, 64);
 }
 
 .navbar-light .navbar-brand {
-  color: white;
+  color: grey;
 }
 
 .navbar-padding {
@@ -19,7 +19,7 @@
 }
 
 .navbar-custom1{
-  background: #0bada6;
+  background: rgb(128, 0, 64);
   
 }
 
@@ -50,7 +50,7 @@ body {
 .container h1 {
   font-weight: bold;
   font-size: 250%;
-  color: #0bada6;
+  color: rgb(128, 0, 64);
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin-top: 70px;
   padding: 20px;
@@ -66,7 +66,7 @@ p {
 .container h3 {
   font-weight: bold;
   font-size: 125%;
-  color: #0bada6;
+  color: rgb(128, 0, 64);
   margin-top: 70px;
   margin-right: 35px;
 }
@@ -76,7 +76,7 @@ p {
 .container h2 {
   font-weight: bold;
   font-size: 150%;
-  color: #0bada6;
+  color: rgb(128, 0, 64);
   font-family: Georgia, 'Times New Roman', Times, serif;
   margin-top: 70px;
   margin-left: 20px;
@@ -96,7 +96,7 @@ footer {
   background-color: #666666;
   border-top-style: solid;
   border-top-width: 5px;
-  border-top-color: #0bada6;
+  border-top-color: rgb(128, 0, 64);
   min-height: 55px;
   font-family: Georgia, 'Times New Roman', Times, serif;
   font-size: 15px;
@@ -108,7 +108,7 @@ footer {
 
 .container .img:hover {
   border-style: solid;
-  border-color: teal;
+  border-color: rgb(128, 0, 64);
 }
 
 #comparison {
@@ -171,7 +171,7 @@ footer {
 }
 
 .nav-navbar {
-  background-color: teal;
+  background-color: rgb(128, 0, 64);
 }
 
 @media (max-width: 480px) {
