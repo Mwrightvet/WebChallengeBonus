@@ -1,0 +1,196 @@
+.container-fluid .navbar-brand {
+  color: white;
+  height: 50px;
+  padding-top: 15px;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 20px;
+  font-weight: bold;
+  font-size: 140%;
+  background-color: #0bada6;
+}
+
+.navbar-light .navbar-brand {
+  color: white;
+}
+
+.navbar-padding {
+  padding:unset;
+}
+
+.navbar-custom1{
+  background: #0bada6;
+  
+}
+
+.navbar-custom1 .a {
+  padding: unset !important;
+
+
+}
+
+.navbar-nav li {
+  font-display: inline-block;
+}
+
+body {
+  color: rgb(58, 58, 58);
+  background-color: #ededed;
+  font-weight: 500;
+  text-align: justify;
+}
+
+.container {
+
+  background-color: #ffffff;
+
+
+}
+
+.container h1 {
+  font-weight: bold;
+  font-size: 250%;
+  color: #0bada6;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 70px;
+  padding: 20px;
+  margin-left: 30px;
+  align-content: center;
+}
+
+p {
+  line-height: 1.8;
+  margin-bottom: 70px;
+}
+
+.container h3 {
+  font-weight: bold;
+  font-size: 125%;
+  color: #0bada6;
+  margin-top: 70px;
+  margin-right: 35px;
+}
+
+
+
+.container h2 {
+  font-weight: bold;
+  font-size: 150%;
+  color: #0bada6;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: 70px;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 20px;
+  background-color: rgb(83, 83, 81);
+}
+
+.footer {
+  color: white;
+  background-color: #666666;
+  border-top-style: solid;
+  border-top-width: 5px;
+  border-top-color: #0bada6;
+  min-height: 55px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  text-align: center;
+  position: fixed;
+  width: 100%;
+  padding-top: 15px;
+}
+
+.container .img:hover {
+  border-style: solid;
+  border-color: teal;
+}
+
+#comparison {
+  margin-top: 10px;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+#comparison h3 {
+  margin-top: 1px;
+}
+
+#comparison p {
+  margin-bottom: 20px;
+}
+
+#firstblock {
+  width: 90%;
+}
+
+#firstblock img {
+  height: 200px;
+  max-width: 200px;
+  float: left;
+}
+
+#secondblock {
+  margin-left: 25px;
+  width: 85%;
+}
+
+.dataframe {
+  margin-left: 100px;
+}
+
+.col-md-12 h2 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.navbar-custom {
+  padding: unset !important;
+}
+
+
+.resize img{ 
+  width: 100%; 
+  height: auto; 
+}
+
+.img-hover  .img{
+   border-color: yellow; 
+   /*change the transparent border to yellow*/
+   border size: 20px;
+}
+
+.responsive img {
+  width: 100%;
+  height: auto;
+}
+
+.nav-navbar {
+  background-color: teal;
+}
+
+@media (max-width: 480px) {
+/* .navbar {
+    background-color: teal;
+  } */
+
+  .navbar-nav li {
+    padding: 10px;
+  }
+
+  .navbar ul {
+    visibility: hidden;
+  }
+
+}
+
+.responsive {
+  width: 100%;
+  height: auto;
+}
+
